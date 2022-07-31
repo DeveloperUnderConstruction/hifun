@@ -11,4 +11,4 @@ make firebase project paste config in firebase.js
 npm i && npm run start or yarn && yarn start
 
 ## Home Page
-![GitHub Logo](/home.png)
+![](images/Capture.PNG)
